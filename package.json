@@ -1,5 +1,5 @@
 {
-  "name": "@nuxtjs/auth",
+  "name": "@croudtech/auth",
   "version": "4.8.5",
   "description": "Authentication module for Nuxt.js",
   "license": "MIT",
@@ -14,6 +14,10 @@
     {
       "name": "Tony Briet",
       "url": "https://github.com/breakingrobot"
+    },
+    {
+      "name": "BrockReece",
+      "url": "https://github.com/brockreece"
     }
   ],
   "main": "lib/module/index.js",
